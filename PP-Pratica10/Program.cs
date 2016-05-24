@@ -17,7 +17,8 @@ namespace PP_Pratica10
             //new MatrixSomaMatrix().Exibir();
             //new Matrix3por3().Exibir();
             //new Matrix5por2().Exibir();
-            new Matrix4por2().Exibir();
+            //new Matrix4por2().Exibir();
+            new Matriz10a20().Exibir();
             Console.ReadKey();
         }
     }
