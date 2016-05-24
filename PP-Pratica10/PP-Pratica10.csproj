@@ -43,6 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LerValorMatrix.cs" />
+    <Compile Include="Matrix3por3.cs" />
+    <Compile Include="Matrix4por2.cs" />
+    <Compile Include="Matrix5por2.cs" />
+    <Compile Include="MatrixSomaMatrix.cs" />
+    <Compile Include="Matriz10a20.cs" />
+    <Compile Include="MenorValor.cs" />
+    <Compile Include="NomeGenero.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
